@@ -1,0 +1,34 @@
+{
+  "hash": "d64fad85",
+  "configHash": "12211410",
+  "lockfileHash": "cf6d873c",
+  "browserHash": "db2c0423",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "3e3d4f67",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "af03b6b1",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "e42b5b79",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-FNOVSK5F": {
+      "file": "chunk-FNOVSK5F.js"
+    },
+    "chunk-OTX62NF5": {
+      "file": "chunk-OTX62NF5.js"
+    }
+  }
+}
